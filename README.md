@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/GeriiGarcia)
-- Twitter [@your-twitter](https://twitter.com/GeriiGarcia3)
+- GitHub [@GeriiGarcia](https://github.com/GeriiGarcia)
+- Twitter [@GeriiGarcia3](https://twitter.com/GeriiGarcia3)
